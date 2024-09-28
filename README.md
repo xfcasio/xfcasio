@@ -16,9 +16,9 @@
     <img src="https://img.shields.io/badge/WM-Hyprland-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
     <img src="https://img.shields.io/badge/Editor-NeoVim-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
     <img src="https://img.shields.io/badge/Shell-Zsh-informational?style=for-the-badge&logoColor=white&color=darkcyan" /><br>
+    <img src="https://img.shields.io/badge/Language-Rust-informational?style=for-the-badge&logoColor=white&color=blue" />
     <img src="https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logoColor=white&color=blue" />
     <img src="https://img.shields.io/badge/Language-C/C++-informational?style=for-the-badge&logoColor=white&color=blue" />
-    <img src="https://img.shields.io/badge/Language-Rust-informational?style=for-the-badge&logoColor=white&color=blue" />
     <img src="https://img.shields.io/badge/Language-Golang-informational?style=for-the-badge&logoColor=white&color=blue" />
     <img src="https://img.shields.io/badge/Language-Zig-informational?style=for-the-badge&logoColor=white&color=blue" />
     <img src="https://img.shields.io/badge/Language-Crystal-informational?style=for-the-badge&logoColor=white&color=blue" />
