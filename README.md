@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" />
+</p>
+<p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&pause=1000&center=true&vCenter=true&width=911&height=103&lines=Hi%2C+I'm+cisco+%F0%9F%91%8B+;Embedded+Systems" alt="Typing SVG" /></a>
 </p>
 
@@ -18,21 +21,21 @@
     <img src="https://img.shields.io/badge/Shell-Zsh-informational?style=for-the-badge&logoColor=white&color=darkcyan" /><br>
     <img src="https://img.shields.io/badge/Language-Rust-informational?style=for-the-badge&logoColor=white&color=blue" />
     <img src="https://img.shields.io/badge/Language-C/C++-informational?style=for-the-badge&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/Language-Ruby-informational?style=for-the-badge&logoColor=white&color=blue" />
     <img src="https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logoColor=white&color=blue" />
     <img src="https://img.shields.io/badge/Language-Golang-informational?style=for-the-badge&logoColor=white&color=blue" />
     <img src="https://img.shields.io/badge/Language-Zig-informational?style=for-the-badge&logoColor=white&color=blue" />
     <img src="https://img.shields.io/badge/Language-Crystal-informational?style=for-the-badge&logoColor=white&color=blue" />
-    <img src="https://img.shields.io/badge/Language-NodeJs-informational?style=for-the-badge&logoColor=white&color=blue" />
 </p>
 
 <br>
 <br>
 
 <p align="center">
-🔭 I’m currently working on a proof of concept operating system for tiny devices <br>
-🌱 I’m currently learning C/C++ ∧ x86_64 AT&T Assembly ∧ Rust <br>
-🤔 I’m looking for help with personal projects to improve them <br>
-📫 How to reach me: email me at <a href = "mailto://xfc1@pm.me">xfc1@pm.me</a>, but <a href="https://discord.com/users/466533081327861770">Discord</a> is preferred <br>
+🔷 I’m currently working on a proof of concept operating system for tiny devices. <br>
+🔷 I’m learning Rust + x86_64 Assembly. <br>
+🔷 I’m looking for help with personal projects to improve them. <br>
+🔷 How to reach me: email me at <a href = "mailto://xfc1@pm.me">xfc1@pm.me</a>, but <a href="https://discord.com/users/466533081327861770">Discord</a> is preferred. <br>
 </p>
 
 <br>
@@ -52,7 +55,7 @@
 <h2 align="center">Github Trophies: 🏆️</h1>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=xfcasio&theme=onedark&hide_border=true&no-frame=true&row=1&column=7" alt="cifertech points"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=xfcasio&theme=onedark&hide_border=true&no-frame=true&row=1&column=5" alt="cifertech points"/>
 </p>
 
 <p align="center">
