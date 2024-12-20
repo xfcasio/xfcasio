@@ -24,7 +24,6 @@
     <img src="https://img.shields.io/badge/LANGUAGE-Ruby-blue?colorA=151515&colorB=8C977D&style=for-the-badge" />
     <img src="https://img.shields.io/badge/LANGUAGE-Python-blue?colorA=151515&colorB=8C977D&style=for-the-badge" />
     <img src="https://img.shields.io/badge/LANGUAGE-Golang-blue?colorA=151515&colorB=8C977D&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/LANGUAGE-Zig-blue?colorA=151515&colorB=8C977D&style=for-the-badge" />
 </p>
 
 <br>
