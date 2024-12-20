@@ -15,17 +15,16 @@
 ##
 
 <p align="center">
-    <img src="https://img.shields.io/badge/OS-Fedora-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
-    <img src="https://img.shields.io/badge/WM-Hyprland-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
-    <img src="https://img.shields.io/badge/Editor-NeoVim-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
-    <img src="https://img.shields.io/badge/Shell-Zsh-informational?style=for-the-badge&logoColor=white&color=darkcyan" /><br>
-    <img src="https://img.shields.io/badge/Language-Rust-informational?style=for-the-badge&logoColor=white&color=blue" />
-    <img src="https://img.shields.io/badge/Language-C/C++-informational?style=for-the-badge&logoColor=white&color=blue" />
-    <img src="https://img.shields.io/badge/Language-Ruby-informational?style=for-the-badge&logoColor=white&color=blue" />
-    <img src="https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logoColor=white&color=blue" />
-    <img src="https://img.shields.io/badge/Language-Golang-informational?style=for-the-badge&logoColor=white&color=blue" />
-    <img src="https://img.shields.io/badge/Language-Zig-informational?style=for-the-badge&logoColor=white&color=blue" />
-    <img src="https://img.shields.io/badge/Language-Crystal-informational?style=for-the-badge&logoColor=white&color=blue" />
+    <img src"https://img.shields.io/badge/DISTRO-Fedora-blue?colorA=151515&colorB=8C977D&style=for-the-badge" />
+    <img src"https://img.shields.io/badge/WM-Hyprland-blue?colorA=151515&colorB=8C977D&style=for-the-badge" />
+    <img src"https://img.shields.io/badge/EDITOR-Neovim-blue?colorA=151515&colorB=8C977D&style=for-the-badge" />
+    <img src"https://img.shields.io/badge/SHELL-ZSH-blue?colorA=151515&colorB=8C977D&style=for-the-badge" /> <br>
+    <img src"https://img.shields.io/badge/LANGUAGE-Rust-blue?colorA=151515&colorB=7788AA&style=for-the-badge" />
+    <img src"https://img.shields.io/badge/LANGUAGE-C/C++-blue?colorA=151515&colorB=7788AA&style=for-the-badge" />
+    <img src"https://img.shields.io/badge/LANGUAGE-Ruby-blue?colorA=151515&colorB=7788AA&style=for-the-badge" />
+    <img src"https://img.shields.io/badge/LANGUAGE-Python-blue?colorA=151515&colorB=7788AA&style=for-the-badge" />
+    <img src"https://img.shields.io/badge/LANGUAGE-Golang-blue?colorA=151515&colorB=7788AA&style=for-the-badge" />
+    <img src"https://img.shields.io/badge/LANGUAGE-Zig-blue?colorA=151515&colorB=7788AA&style=for-the-badge" />
 </p>
 
 <br>
