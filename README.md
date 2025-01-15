@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" />
-</p>
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&pause=1000&center=true&vCenter=true&width=911&height=103&lines=Hi%2C+I'm+cisco+%F0%9F%91%8B+;Embedded+Systems" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=fixed&weight=700&size=35&duration=3000&pause=900&color=78B892&background=000A0E&center=true&vCenter=true&width=911&height=103&lines=Hi%2C+I'm+cisco.;Low+Level+Programming;Linux+Cybersecurity" alt="Typing SVG" />
+    </a>
 </p>
 
 <p align="center">
