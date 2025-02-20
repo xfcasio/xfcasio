@@ -57,7 +57,7 @@
 
 <p align="center">
 <table align="center" style="border: 0px solid black">
-        <td><img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfcasio&hide_border=true&show_icons=true&no-frame=true&theme=react&exclude_repo=dotfiles" /></td>
+        <td><img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfcasio&theme=react&layout=donut-vertical&exclude_repo=dotfiles&hide_border=true" /></td>
         <td>
             <table style="border: 0px solid black">
                 <tr>
