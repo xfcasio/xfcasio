@@ -28,12 +28,14 @@
 <br>
 <br>
 
-<p align="center">
-🔷 I’m currently working on a proof of concept operating system for tiny devices. 🔷<br>
-🔷 I’m learning Rust + x86_64 Assembly. 🔷<br>
-🔷 I’m looking for help with personal projects to improve them. 🔷<br>
-🔷 How to reach me: email me at <a href = "mailto://xfc1@pm.me">xfc1@pm.me</a>, but <a href="https://discord.com/users/466533081327861770">Discord</a> is preferred. 🔷<br>
-</p>
+<div align="center">
+    <p style="text-align: justify; width: 50%;">
+        🔷 I’m currently working on a proof of concept operating system for tiny devices ... <br>
+        ❄️ I’m learning Rust + x86_64 Assembly ............................................. <br>
+        🔷 I’m looking for help with personal projects to improve them ..................... <br>
+        ❄️ How to reach me: email me at <a href = "mailto://xfc1@pm.me">xfc1@pm.me</a>, but <a href="https://discord.com/users/466533081327861770">Discord</a> is preferred ............... <br>
+    </p>
+</div>
 
 <br>
 
@@ -42,7 +44,7 @@
 </p>
 
 ##
-<h2 align="center">Github Trophies: 🏆️</h1>
+<h2 align="center">Github Trophies: 🏆️</h2>
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=xfcasio&theme=onedark&hide_border=true&no-frame=true&row=1&column=5" alt="cifertech points"/>
@@ -63,13 +65,6 @@
         </td>
 </table>
 </p>
-
-##
-<br>
-<p align="center">
-    <img width="600px" src="https://metrics.lecoq.io/xfcasio?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=200&people.identicons=false&people.identicons.hide=false&people.size=35&people.types=followers&people.shuffle=false&config.timezone=Cairo" />
-</p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
