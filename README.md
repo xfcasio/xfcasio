@@ -36,13 +36,6 @@
 </p>
 
 <br>
-<br>
-
-<p align="center">
-  <img width="600" src="https://stats.hyochan.dev/api/github-stats?login=xfcasio" />
-</p>
-
-<br>
 
 <p align="center">
      <img src="https://dcbadge.vercel.app/api/shield/466533081327861770" />
