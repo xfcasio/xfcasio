@@ -20,9 +20,9 @@
     <img src="https://img.shields.io/badge/SHELL-ZSH-blue?colorA=151515&colorB=DF5B61&style=for-the-badge" /> <br>
     <img src="https://img.shields.io/badge/LANGUAGE-Rust-blue?colorA=151515&colorB=6791C9&style=for-the-badge" />
     <img src="https://img.shields.io/badge/LANGUAGE-C/C++-blue?colorA=151515&colorB=6791C9&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LANGUAGE-x86 Assembly-blue?colorA=151515&colorB=6791C9&style=for-the-badge" />
     <img src="https://img.shields.io/badge/LANGUAGE-Ruby-blue?colorA=151515&colorB=6791C9&style=for-the-badge" />
     <img src="https://img.shields.io/badge/LANGUAGE-Python-blue?colorA=151515&colorB=6791C9&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/LANGUAGE-Golang-blue?colorA=151515&colorB=6791C9&style=for-the-badge" />
 </p>
 
 <br>
