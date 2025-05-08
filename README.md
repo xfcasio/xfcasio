@@ -51,7 +51,6 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=xfcasio&theme=onedark&hide_border=true&no-frame=true&row=1&column=4" alt="cifertech points"/>
 </p>
--->
 
 <p align="center">
 <table align="center" style="border: 0px solid black">
@@ -72,3 +71,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </p>
+-->
