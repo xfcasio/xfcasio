@@ -1,8 +1,13 @@
 <p align="center">
     <a href="https://www.youtube.com/channel/UCfhyTQpimu5Bp8Z4Q1rho1A?sub_confirmation=1" alt="Youtube Channel">
-        <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+        <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" />
+    </a>
     <a href="https://discord.gg/BJtTBNYHpp" alt="Programming and Linux Community">
-        <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge" /></a>
+        <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge" />
+    </a>
+    <a href="https://techforpalestine.org/learn-more" alt="Stand With Palestine">
+        <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" />
+    </a>
 </p>
 
 <p align="center">
