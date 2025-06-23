@@ -19,15 +19,11 @@
 ##
 
 <p align="center">
-    <img src="https://img.shields.io/badge/DISTRO-Fedora-blue?colorA=151515&colorB=DF5B61&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/WM-Hyprland-blue?colorA=151515&colorB=DF5B61&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/EDITOR-Neovim-blue?colorA=151515&colorB=DF5B61&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/SHELL-ZSH-blue?colorA=151515&colorB=DF5B61&style=for-the-badge" /> <br>
-    <img src="https://img.shields.io/badge/LANG-Rust-blue?colorA=151515&colorB=6791C9&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/LANG-C/C++-blue?colorA=151515&colorB=6791C9&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/LANG-x86 Assembly-blue?colorA=151515&colorB=6791C9&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/LANG-Ruby-blue?colorA=151515&colorB=6791C9&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/LANG-Python-blue?colorA=151515&colorB=6791C9&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LANG-Rust-blue?colorA=00070B&colorB=E9967E&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LANG-C/C++-blue?colorA=00070B&colorB=C488EC&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LANG-x86 Assembly-blue?colorA=00070B&colorB=333B3F&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LANG-Ruby-blue?colorA=00070B&colorB=F26E74&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LANG-Python-blue?colorA=00070B&colorB=6791C9&style=for-the-badge" />
 </p>
 
 <br>
