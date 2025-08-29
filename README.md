@@ -19,10 +19,10 @@
 ##
 
 <p align="center">
-    <img src="https://img.shields.io/badge/LANG-Rust-blue?colorA=00070B&colorB=E9967E&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/LANG-C/C++-blue?colorA=00070B&colorB=C488EC&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LANG-Rust-blue?colorA=00070B&colorB=F26E74&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LANG-C-blue?colorA=00070B&colorB=C488EC&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LANG-Zig-blue?colorA=00070B&colorB=FF8F40&style=for-the-badge" />
     <img src="https://img.shields.io/badge/LANG-x86 Assembly-blue?colorA=00070B&colorB=333B3F&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/LANG-Ruby-blue?colorA=00070B&colorB=F26E74&style=for-the-badge" />
     <img src="https://img.shields.io/badge/LANG-Python-blue?colorA=00070B&colorB=6791C9&style=for-the-badge" />
 </p>
 
@@ -39,10 +39,6 @@
 </div>
 
 <br>
-
-<p align="center">
-     <img src="https://dcbadge.vercel.app/api/shield/466533081327861770" />
-</p>
 
 ##
 
