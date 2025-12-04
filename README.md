@@ -12,7 +12,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?font=Cartograph%20CF%20Italic&weight=700&size=35&duration=3000&pause=900&color=6791C9&background=000A0E&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I%27m+cisco.;Low+Level+Programming;Linux+Cybersecurity%2FPentesting" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com/?font=Parisienne&size=50&duration=3000&pause=900&color=6791C9&background=000A0E&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I%27m+cisco.;Low+Level+Programming;Linux+Cybersecurity%2FPentesting" alt="Typing SVG" />
     </a>
 </p>
 
