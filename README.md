@@ -36,6 +36,7 @@
         🔷 I’m looking for help with personal projects to improve them ................................ <br>
         ❄️ How to reach me: email me at <a href = "mailto://xfc1@pm.me">xfc1@pm.me</a>, but <a href="https://discord.com/users/466533081327861770">Discord</a> is preferred .......................... <br>
     </samp> </p>
+    <img src="https://media1.tenor.com/m/Xcn012opfuMAAAAd/adzumanga-doiho-osaka.gif" />
 </div>
 
 <br>
