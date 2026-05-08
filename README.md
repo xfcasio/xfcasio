@@ -31,7 +31,7 @@
 
 <div align="center">
     <table> <tr>
-        <td>
+        <td style="text-align: right;">
         <p style="text-align: justify; width: 50%;"> <samp>
             🔷 I’m currently working on a little POSIX-y operating system kernel ...................... <br>
             ❄️ I’m learning <code>SystemVerilog</code> + <code>Zig</code> + <code>x86_64 Assembly</code> ...................................... <br>
@@ -40,7 +40,7 @@
         </p>
         </td>
         <td>
-            <img src="./media/0.jpg" />
+            <img src="./media/0.jpg" width=300/>
         </td>
     </tr> </table>
     <br> <br>
