@@ -42,7 +42,7 @@
         </samp> </p>
         </td>
         <td>
-            <img src="./media/0.jpg" width=250/>
+            <img src="./media/0.jpg" width=280/>
         </td>
     </tr> </table>
     <br> <br>
