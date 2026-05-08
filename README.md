@@ -33,10 +33,10 @@
     <table> <tr>
         <td style="text-align: right;">
         <p style="text-align: justify; width: 50%;"> <samp>
-            🔷 I’m currently working on a little POSIX-y operating system kernel ...................... <br>
-            ❄️ I’m learning <code>SystemVerilog</code> + <code>Zig</code> + <code>x86_64 Assembly</code> ...................................... <br>
-            🔷 I’m looking for help with personal projects to improve them ............................ <br>
-            ❄️ How to reach me: email me at <a href = "mailto://xfc1@pm.me">xfc1@pm.me</a>, but <a href="https://discord.com/users/466533081327861770">Discord</a> is preferred ...................... <br></samp>
+            🔷 I’m currently working on a little POSIX-y operating system kernel .......... <br>
+            ❄️ I’m learning <code>SystemVerilog</code> + <code>Zig</code> + <code>x86_64 Assembly</code> .......................... <br>
+            🔷 I’m looking for help with personal projects to improve them ................ <br>
+            ❄️ How to reach me: email me at <a href = "mailto://xfc1@pm.me">xfc1@pm.me</a>, but <a href="https://discord.com/users/466533081327861770">Discord</a> is preferred .......... <br></samp>
         </p>
         </td>
         <td>
