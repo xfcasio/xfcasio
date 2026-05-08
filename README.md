@@ -40,7 +40,7 @@
         </p>
         </td>
         <td>
-            <img src="./media/0.png" />
+            <img src="./media/0.jpg" />
         </td>
     </tr> </table>
     <br> <br>
