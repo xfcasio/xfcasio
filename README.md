@@ -30,7 +30,7 @@
 <br>
 
 <div align="center">
-    <table> <tr>
+    <table border="0"> <tr>
         <td style="text-align: right;">
         <p style="text-align: justify; width: 50%;"> <samp>
             🔷 I’m currently working on a little POSIX-y operating system kernel ...... <br>
