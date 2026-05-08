@@ -33,11 +33,13 @@
     <table border="0"> <tr>
         <td style="text-align: right;">
         <p style="text-align: justify; width: 50%;"> <samp>
-            🔷 I’m currently working on a little POSIX-y operating system kernel ...... <br>
-            ❄️ I’m learning <code>SystemVerilog</code> + <code>Zig</code> + <code>x86_64 Assembly</code> ...................... <br>
-            🔷 I’m looking for help with personal projects to improve them ............ <br>
-            ❄️ How to reach me: email me at <a href = "mailto://xfc1@pm.me">xfc1@pm.me</a>, but <a href="https://discord.com/users/466533081327861770">Discord</a> is preferred ...... <br></samp>
-        </p>
+            (🪴) Interested in low level programming, compiler dev, osdev, and μarchs ... <br>
+            (🪴) Studying (Abstract + Linear) Algebra and their applications in CS ...... <br>
+            (🪴) Learning <code>ML</code>, <code>Rust/Zig</code>, <code>x86_64 Assembly</code> ................................. <br>
+            (🪴) I like ricing linux & custom tooling ................................... <br>
+            (🪴) Looking for help with personal projects to improve them ................ <br>
+            (🪴) How to reach me: email me at <a href = "mailto://xfc1@pm.me">xfc1@pm.me</a>, but <a href="https://discord.com/users/466533081327861770">Discord</a> is preferred ...... <br>
+        </samp> </p>
         </td>
         <td>
             <img src="./media/0.jpg" width=250/>
